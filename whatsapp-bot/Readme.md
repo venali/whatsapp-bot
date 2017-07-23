@@ -5,7 +5,7 @@
 
 
 
-Install the image handling system dependencies on bash opt/system-requirements.sh
-Create a virtualenv and install the requirements pip install -r opt/requirements.pip
-Follow the instructions on src/config.py to get the whatsapp credentials.
-Then just run the server with python src/server.py
+1. Install the image handling system dependencies on bash opt/system-requirements.sh
+2. Create a virtualenv and install the requirements pip install -r opt/requirements.pip
+3. Follow the instructions on src/config.py to get the whatsapp credentials.
+4. Then just run the server with python src/server.py
